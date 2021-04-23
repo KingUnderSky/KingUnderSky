@@ -3,7 +3,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kingundersky&label=Profile%20views&color=0e75b6&style=flat" alt="kingundersky" /> </p>
 
-- 📝 I am studing I'm studing System analysis and development at Facens 👨🏾‍🎓
+- 📝 I'm studing System analysis and development at Facens 👨🏾‍🎓
 
 - :video_game: I have a gameplay Channel too, I love Games! [https://www.youtube.com/channel/KingUnderSky](https://www.youtube.com/channel/UC5JsUTUYBJK2iC42lnLkm-A)
 
