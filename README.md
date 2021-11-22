@@ -5,8 +5,6 @@
 
 - 📝 I'm studing System analysis and development at Facens 
 
-- :video_game: I have a gameplay Channel too, I love Games! [https://www.youtube.com/channel/KingUnderSky](https://www.youtube.com/channel/UC5JsUTUYBJK2iC42lnLkm-A)
-
   
 
 <h3 align="left">Connect with me:</h3>
